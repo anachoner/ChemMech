@@ -1,0 +1,13 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+torch==2.2.0
+torchvision==0.17.0
+transformers==4.36.2
+rdkit==2023.9.4
+pillow==10.2.0
+pydantic==2.5.3
+python-multipart==0.0.6
+sentencepiece==0.1.99
+protobuf==4.25.2
+numpy==1.26.3
+requests==2.31.0
